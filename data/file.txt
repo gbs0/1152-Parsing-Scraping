@@ -1,0 +1,3 @@
+Olá mundo!
+Bom dia Batch #1152!
+Bye World!
